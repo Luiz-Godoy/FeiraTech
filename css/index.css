@@ -1,0 +1,63 @@
+html
+{
+	height: 100%;
+}
+
+/*
+body
+{
+	height: 50%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;	
+	background: linear-gradient(0deg, rgba(2,177,232,1) 0%, rgba(0,203,249,1) 40%,
+	 rgba(0,209,253,1) 58%, rgba(0,212,255,1) 71%, rgba(120,232,255,1) 83%,
+	 rgba(200,246,255,1) 92%, rgba(255,255,255,1) 100%);
+}
+*/
+
+
+.bg-im
+{
+	width: 1920vh;
+}
+
+@media only screen and (min-width:400px) { 
+	.custom-middle-card
+	{
+		margin-top: 0%;
+	}
+}
+
+@media only screen and (min-width:800px) {
+	.custom-middle-card
+	{
+		font-family: "sans-serif";
+	}
+}
+/*
+@media only screen and (min-width:400px){ 
+	.principal {
+	  margin-top: 0%
+	}
+}  
+@media only screen and (min-width:1300px){
+	.principal {
+		margin-top: -25%;
+		font-family: "sans-serif";
+	}	
+	p {
+		font-size: 1.5rem;
+		font-family: "sans-serif";
+	}	
+	
+}
+
+@media only screen and (min-width:1400px){ 
+	.foot {
+		margin-top: -25%;
+	 	margin-top: 0%
+	}
+}  
+
+*/
